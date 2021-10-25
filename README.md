@@ -13,7 +13,6 @@ This is a toy project to partially expand the function of cryptofuzz.
 ## Getting Started
 ### Depencies
 - clang++-8
-- cryptofuzz
 
 ## PoC
 
