@@ -3,11 +3,10 @@
   - [Overview](#overview) 
   - [Getting Started](#getting-started)
   - [PoC](#PoC)
-## About this project
-This is a toy project to partially expand the function of cryptofuzz.
-
 ## Overview
-- Additional fuzzing of **RSA** and **ECC-related** ciphers that are not present in cryptofuzz is possible.
+- This is a toy project to partially expand the function of cryptofuzz.
+- The fuzzing target is **crypto++**. additional fuzzing of **RSA** and **ECC-related** ciphers that are not present in cryptofuzz is possible.
+- **One unknown vulnerability(OOM)** was found in ECC-related ciphers.
 
 ## Getting Started
 ### Depencies
